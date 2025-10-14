@@ -1,2 +1,2 @@
-This repository contains a Next.js application that was originally built with JavaScript 
-and later refactored to TypeScript for improved type safety, maintainability, and scalability.
+# 相關討論串
+* https://claude.ai/chat/d9ff59dd-0136-4aac-9a49-e533491afc21
