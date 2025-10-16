@@ -1,0 +1,34 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+.next
+.git
+.gitignore
+README.md
+.env*.local
+.vscode
+.idea
+
+# 你的 shell scripts
+app.sh
+up.sh
+
+# 開發工具設定
+.eslintrc.json
+.prettierrc
+
+# 測試相關
+coverage
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# 日誌檔案
+*.log
+logs
+
+# OS 相關
+.DS_Store
+Thumbs.db
